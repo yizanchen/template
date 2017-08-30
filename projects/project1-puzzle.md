@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/8.jpg
+image: images/8p.jpg
 title: 8 Tile Puzzle Solver
 permalink: projects/puzzle
 date: 2016
