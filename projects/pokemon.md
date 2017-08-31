@@ -6,7 +6,7 @@ title: My Pokedex
 permalink: project/puzzle
 date: 2016
 labels:
-  - JavaGUI	
+  - JavaFX	
   - JFrame
   - Pokemon
 summary: This was a project I created on my own and was inspired by my friend's homework.
