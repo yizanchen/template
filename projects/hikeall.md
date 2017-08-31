@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hike3.jpg
 title: Project Hike Them All (PHTA)
-permalink: projects/puzzle
+permalink: projects/hike
 date: 2016
 labels:
   - Team Work	
