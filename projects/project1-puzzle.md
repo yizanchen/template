@@ -12,7 +12,6 @@ labels:
 summary: This was one of the project for my AI class and was one of the most diffcult project in that class.
 ---
 
-<img class="8p" src="/images/8p.jpg">
 
 This was the final project for my ICS 361 AI class, which is also the class that grows my interest in AI but that is a story for another day.In this project, I had to implement A* and Breadth-first search in Prolog to solve the 8-tiles puzzle by finding a solution path from a given start. The main intention of this project was to show the difference between Clisp and Prolog because there was a previous project on this problem in Clisp. 
 
