@@ -9,7 +9,7 @@ labels:
   - Team Work	
   - Hike
   - Wild
-summary:This was an event created by me and friends while we were discussing what to do during the summer. We want it to be a relaxing and meaningful experience for all of us.
+summary: This was an event created by me and friends while we were discussing what to do during the summer. We want it to be a relaxing and meaningful experience for all of us.
 ---
 
 <img class="h1" src="/images/hike11.jpg">
