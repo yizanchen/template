@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/poke.png
 title: My Pokedex 
-permalink: projects/java
+permalink: java
 date: 2016
 labels:
   - JavaGUI	
