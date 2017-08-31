@@ -25,4 +25,4 @@ This was a difficult project that cost a lot of times and works despite the prev
 
 Actually, half of my research time was on how to do the project without writing all 48 rules and even though I went back to doing it the "easy" way, I learned a lot from my searches. This is also a lesson make me appreciate each language more by knowing the advantages and disadvantages.
 
-You can find the source code at https://github.com/yizanchen/puzzel.
+You can find my [source code](https://github.com/yizanchen/puzzel).
