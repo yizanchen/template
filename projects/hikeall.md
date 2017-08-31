@@ -12,7 +12,7 @@ labels:
 summary: .
 ---
 
-<img class="h1" src="/images/hike1.jpg">
+<img class="h1" src="/images/hike11.jpg">
 
 This was an event created by me and friends while we were discussing what to do during the summer. We want it to be a relaxing and meaningful experience for all of us, so we search for beautiful and yet pack some challenges hiking routes.
 
