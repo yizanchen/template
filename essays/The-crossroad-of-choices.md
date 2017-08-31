@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="lego" src="../images/lego.png">
+<img class="lego" src="../images/lego.jpg">
 
 
 
