@@ -17,4 +17,4 @@ summary: This was a project I created on my own and was inspired by my friend's 
 
 ok 
 
-You can find my [source code](https://github.com/yizanchen/pokemongui).
+You can find my [source code](https://github.com/yizanchen/pokemangui).
