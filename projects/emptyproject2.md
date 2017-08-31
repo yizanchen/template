@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://pro-rankedboost.netdna-ssl.com/wp-content/uploads/2016/07/Pokemon-Go-Pok%C3%A9dex-300x229.png
+image: /images/poke.png
 title: My Pokedex 
 permalink: projects/java
 date: 2016
