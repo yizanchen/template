@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/poke.png
+image: images/poke.png
 title: My Pokedex 
 permalink: projects/java
 date: 2016
