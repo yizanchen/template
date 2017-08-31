@@ -16,7 +16,7 @@ summary: This was an event created by me and friends while we were discussing wh
 
 This was an event created by me and friends while we were discussing what to do during the summer. We want it to be a relaxing and meaningful experience for all of us, so we search for beautiful and yet pack some challenges hiking routes.
 
-<img class="h2" src="/images/hike2.jpg">
+<img class="h2" src="/images/hike22.jpg">
 
 None of starting members including have much experience in hiking, so we decided to start off easy and low. Our first stop was Diamond head, a good short distance hike but fill with tourists and open to the sun. All of us agreed to move to the next level, so we found the All Trails site and look for moderate trails. We soon conquered few moderate trails, some new member join, and some old leave due to many reasons. We were doing it at a rate of one hike per week because we don't want to rush and give time for both new members to prepare and old members to rest. So, We finally attempted our first "hard" level hike, we were unable to finish and force to head back mid way due to both time and stamina limitation. It was a big level gap from moderate to hard level, the distance of the hard tails is double the longest moderate tail. We attempted another time at the same tail and stop at mid for practice and training purpose, then we are out of time for the summer. 
 
