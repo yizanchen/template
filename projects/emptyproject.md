@@ -1,19 +1,22 @@
 ---
 layout: project
 type: project
-image: images/8.jpg
-title: title
+image: images/hike3.jpg
+title: Project Hike Them All (PHTA)
 permalink: projects/puzzle
 date: 2016
 labels:
-  - Puzzle Solving	
-  - Common Lisp
-  - Path finding
+  - Team Work	
+  - Hike
+  - Wild
 summary: .
 ---
 
-<img class="8p" src="/images/8p.jpg">
+<img class="h1" src="/images/hike1.jpg">
 
-aaaaaaaaaaaaaa
+<img class="h2" src="/images/hike2.jpg">
 
-You can find the source code at https://github.com/yizanchen/puzzel.
+<img class="h4" src="/images/hike4.jpg">
+
+
+The website we used for finding hikes: https://www.alltrails.com/us/hawaii .
