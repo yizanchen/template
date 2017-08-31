@@ -17,4 +17,4 @@ summary:This was a project I created on my own and was inspired by my friend's h
 
 ok 
 
-You can find the source code at https://github.com/yizanchen/puzzel.
+You can find the source code at https://github.com/yizanchen/pokemongui.
