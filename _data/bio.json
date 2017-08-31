@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "YiZan Chen",
+    "name": "YiZan Ethan Chen",
     "label": "Student",
     "picture": "https://yizanchen.github.io/images/jpg.jpg",
     "email": "yizan@hawaii.edu",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "Yizan Chen",
-        "url": "https://www.linkedin.com/in/yi-zan-chen-402b2a144/"
+        "url": "https://www.linkedin.com/in/yizan-chen-402b2a144/"
       }
     ]
   },
@@ -93,7 +93,7 @@
     },
     {
       "company": "Regal Dole Cannery Stadium",
-      "position": "usher/cashier",
+      "position": "Usher/cashier",
       "website": "https://www.regmovies.com/",
       "startDate": "2014-05-01",
       "endDate": "2014-07-15",
@@ -111,7 +111,7 @@
       "position": "Member",
       "startDate": "2017-05-01",
       "endDate": "Present",
-      "summary": "Help setup public event and project",
+      "summary": "Make public event and project possible",
       "highlights": [
         "Gain diverse experience in public event and project"
       ]
