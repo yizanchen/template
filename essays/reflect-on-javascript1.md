@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Javascript
+title: A Stressful Start
 date: 2017-08-31 
 labels:
   - Software Engineering
