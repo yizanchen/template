@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: To the future
+title: Reflect on Javascript
 date: 2017-08-31 
 labels:
   - Software Engineering
