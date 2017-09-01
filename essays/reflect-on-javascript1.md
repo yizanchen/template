@@ -6,6 +6,7 @@ date: 2017-08-31
 labels:
   - Software Engineering
   - Learning
+  - Javascript
 ---
 During the summer, I wanted to create my own website, so I started learning HTML, CSS, and Javascript. So, my only reason for learning Javascript is very common, to add interactions and features in a web page. I used W3Schools's Javascript tutorial to learn Javascript, it was good and starts from the very basics. While reading through the tutorials, I found it to be very similar to other programming languages like Java/C++. There are differences, I like how simple it is to use Javascript, while other languages have a lot of strict rules for syntax and function. But that is a double edged sword, it means you have to more careful and pay attention to what you write.  
 
