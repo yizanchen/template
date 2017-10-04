@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: Towfuture
-date: 2017-e-31 
+title: UI for everyone
+date: 2017-03-10 
 labels:
-  - no
+  - UI framework
   - Learning
 ---
 
