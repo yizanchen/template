@@ -8,6 +8,7 @@ labels:
   - Learning
   - UI frameworks
 ---
+
 Everyone likes pretty and flashy things. If you have two websites with the same contents but one has better-looking layouts and menus then people would choose the one that is better-looking. This shows how important it is to make websites that are nice looking and user-friendly. But the using raw HTML and CSS to create modern websites would take years of practice and huge amounts of work. UI frameworks are the solution to that, it helps you create appealing modern websites under a short amount of time. 
 
 UI frameworks are beginner friendly tools that people can use to create professional websites. Using UI frameworks are much easier than using raw CSS if you want to create a good simply website. Because by using one of the UI frameworks, for example, Semantic UI, you just need to type in the class name and you will have a menu without actually writing the menu class and style it yourself. All the elements of a web page are made for you and you just need to combine them together into a real web page. 
