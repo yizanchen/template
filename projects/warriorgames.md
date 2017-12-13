@@ -12,9 +12,9 @@ labels:
 summary: This project was created for my ICS 314 class as a final project. It is a site for UH student gamers to play together.
 ---
 
-<img class="8p" src="/images/Game_List_Page.png" width="700">
+<img class="8p" src="/images/Game_List_Page.png" width="900">
 
-<img class="8p" src="/images/Game_List_Selected_Page.png" width="600">
+<img class="8p" src="/images/Game_List_Selected_Page.png" width="800">
 
 
 More information available at [our organization GitHub page](https://github.com/314gb).
