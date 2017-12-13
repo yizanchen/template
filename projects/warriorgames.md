@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/poke.png
+image: images/Landing_Page.png
 title: Warror Games
 permalink: project/puzzle
 date: 2017
@@ -11,5 +11,10 @@ labels:
   - Gaming
 summary: This project was created for my ICS 314 class as a final project. It is a site for UH student gamers to play together.
 ---
+
+<img class="8p" src="/images/Game_List_Page.png">
+
+<img class="8p" src="/images/Game_List_Selected_page">
+
 
 More information available at [our organization GitHub page](https://github.com/314gb).
