@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Landing_Page.png
-title: Warror Games
+title: Warrior Gamers
 permalink: project/puzzle
 date: 2017
 labels:
