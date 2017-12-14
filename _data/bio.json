@@ -54,9 +54,10 @@
         "C++",
         "Java",
         "Javascript",
-        "Prolog",
         "HTML",
         "CSS",
+        "Meteor",
+        "Prolog",
         "Common Lisp"
       ]
     },
